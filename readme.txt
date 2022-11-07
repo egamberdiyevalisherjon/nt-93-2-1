@@ -13,3 +13,7 @@ git status
 git commit -m "{{message}}"
 
 git add .
+
+git remote add origin {{URL}}
+
+git push origin master
